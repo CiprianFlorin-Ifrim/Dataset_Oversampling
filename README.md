@@ -1,4 +1,4 @@
-######Imbalanced Dataset correction by using oversampling techniques such as SMOTE and ADASYN
+## Imbalanced Dataset correction by using oversampling techniques such as SMOTE and ADASYN
 
 Machine Learning Estimators expect a balanced amount of samples between all classes, however, that is not always the case. In order to correct this, we can use oversampling techniques.
 Both methods use the K-Nearest Neighbors relation to create synthetic samples, while the ADASYN method also uses a density function to create more sparse samples.
